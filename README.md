@@ -1,8 +1,8 @@
- ![image](https://github.com/iamTANMOY7/Mango-Leaf-Disease-Detection/assets/91433845/0dd54434-cc06-40b1-a224-c8dd3879879f)
-
 <h1 align="center">
   🌟 Mango Leaf Disease Detection using CNNs
-  
+
+![1](https://github.com/iamTANMOY7/Mango-Leaf-Disease-Detection/assets/91433845/e81d191d-41d2-49d5-b5b6-f8c6a4508077)
+
   ## Introduction
 
 Mango Leaf Disease Prediction is a project that uses trained machine learning model to classify diseases in mango leaves based on input images.
