@@ -1,8 +1,3 @@
-![1](https://github.com/iamTANMOY7/Mango-Leaf-Disease-Detection/assets/91433845/a84062e6-3fa8-4211-96ae-658fdb509759)
-![2](https://github.com/iamTANMOY7/Mango-Leaf-Disease-Detection/assets/91433845/ff6d8d81-1720-4f0d-bd70-476f8ba6d84b)
-![3](https://github.com/iamTANMOY7/Mango-Leaf-Disease-Detection/assets/91433845/1833fea9-b037-4ede-b600-7d3d767115e2)
-
-
 <h1 align="center">
   🌟 Mango Leaf Disease Detection using CNNs
 
@@ -38,3 +33,5 @@ The dataset is split into train and validation sets.
 
 ## Achievements
 These models are EfficientNetB7, VGG16 and ResNet50 based on CNN architecture. These model achieves an accuracy of 100%, 98.7% and 98.2% respectively on the test set.
+
+![1](https://github.com/iamTANMOY7/Mango-Leaf-Disease-Detection/assets/91433845/a84062e6-3fa8-4211-96ae-658fdb509759)
