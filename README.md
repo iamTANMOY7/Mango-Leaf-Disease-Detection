@@ -3,7 +3,7 @@
 
   - [Mango Leaf Disease Prediction](https://github.com/iamTANMOY7/Mango-Leaf-Disease-Detection)
   <div align="left">
-    <img src="![image](https://github.com/iamTANMOY7/Mango-Leaf-Disease-Detection/assets/91433845/bbfc426f-a670-40ed-9d36-d5bb778c1b83)
+    <img src="!(https://github.com/iamTANMOY7/Mango-Leaf-Disease-Detection/assets/91433845/bbfc426f-a670-40ed-9d36-d5bb778c1b83)
 " alt="Mango Thumbnail" width="500" height="400"/>
   </div>
 
