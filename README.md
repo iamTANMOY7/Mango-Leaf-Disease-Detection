@@ -1,10 +1,7 @@
 <h1 align="center">
   🌟 Mango Leaf Disease Detection using CNNs
 
-  - [Mango Leaf Disease Prediction](https://github.com/iamTANMOY7/Mango-Leaf-Disease-Detection)
-  <div align="left">
-    !(https://github.com/iamTANMOY7/Mango-Leaf-Disease-Detection/assets/91433845/bbfc426f-a670-40ed-9d36-d5bb778c1b83)
-  </div>
+ ![image](https://github.com/iamTANMOY7/Mango-Leaf-Disease-Detection/assets/91433845/0dd54434-cc06-40b1-a224-c8dd3879879f)
 
 
   ## Introduction
